@@ -1,0 +1,45 @@
+Tomorrow Rain Prediction
+
+This project aims to predict whether it will rain tomorrow using a Random Forest classifier. The dataset used includes various weather attributes.
+Table of Contents
+
+    Introduction
+    Dataset
+    Installation
+    Usage
+    Model Training
+    Evaluation
+    Results
+    Contributing
+    License
+
+Introduction
+
+The goal of this project is to build a machine learning model to predict whether it will rain tomorrow. The Random Forest classifier is used due to its high accuracy and robustness.
+Dataset
+
+The dataset contains weather information for various locations and includes attributes such as temperature, humidity, wind speed, etc.
+Installation
+
+To run this project, you'll need to install the necessary dependencies.
+Usage
+
+    Clone this repository.
+    Navigate to the project directory.
+    Open the Jupyter notebook.
+
+Model Training
+
+The notebook includes steps for data preprocessing, model training, and making predictions.
+Evaluation
+
+The model is evaluated using classification metrics, including precision, recall, and F1-score.
+Results
+
+The model's performance is measured using the mentioned evaluation metrics.
+Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+License
+
+This project is licensed under the MIT License.
